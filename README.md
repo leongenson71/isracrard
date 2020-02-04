@@ -4,7 +4,7 @@
  1. download Iscracard.zip file and extract it on local disk to some folder.
  2. open Visual Studio Code and go to menu: View->Terminal
  3. next steps do in Terminal:
-  1. cd C\
+  1. cd C \
   2. npm install -g @angular/cli
   3. ng new Isracard
   4. npm install bootstrap --save
